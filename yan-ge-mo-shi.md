@@ -1,1 +1,4 @@
-# 严格模式-"use strict";
+# 严格模式
+> "use strict";
+
+

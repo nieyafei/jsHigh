@@ -22,3 +22,9 @@
 "use strict";
 x = 5;// ReferenceError: x is not defined
 ```
+
+
+```
+123
+```
+

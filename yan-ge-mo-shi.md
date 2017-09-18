@@ -17,6 +17,7 @@
 > 4、为未来新版本的Javascript做好铺垫。
 
 #### 注意：严格模式下你不能使用未声明的变量
+
 ```
 "use strict";
 x = 5;// ReferenceError: x is not defined

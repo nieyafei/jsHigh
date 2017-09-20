@@ -7,4 +7,5 @@
   * [数据类型详解](ji-ben-gai-nian/shu-ju-lei-xing-xiang-jie.md)
   * [操作符](ji-ben-gai-nian/cao-zuo-fu.md)
   * [语句](ji-ben-gai-nian/yu-ju.md)
+  * [函数](ji-ben-gai-nian/han-shu.md)
 

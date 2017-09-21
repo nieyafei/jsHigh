@@ -8,4 +8,5 @@
   * [操作符](ji-ben-gai-nian/cao-zuo-fu.md)
   * [语句](ji-ben-gai-nian/yu-ju.md)
   * [函数](ji-ben-gai-nian/han-shu.md)
+* [变量、作用域和内存问题](bian-liang-3001-zuo-yong-yu-he-nei-cun-wen-ti.md)
 
